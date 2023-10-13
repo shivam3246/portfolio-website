@@ -1,0 +1,19 @@
+
+.card {
+    
+    width: 45%;
+    height: 45%;
+    
+    box-shadow: 10px 10px 10px 10px blue;
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
+  .card1 {
+    
+    width: 45%;
+    height: 45%;
+    
+    box-shadow: 10px 10px 10px 10px blue;
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+  }
